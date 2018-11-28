@@ -16,6 +16,40 @@
           "comment": "Comment #2"
         }
       ]
+    },
+    {
+      "title": "Post 2",
+      "image": "http://r.ddmcdn.com/s_f/o_1/APL/uploads/2017/07/3.jpg",
+      "img_alt": "Tiger pic",
+      "comments": [
+        {
+          "id": "23456",
+          "user": "tiger_lover91",
+          "comment": "I love tigers!!!"
+        },
+        {
+          "id": "23457",
+          "user": "zookeeper_74",
+          "comment": "Very majestic creature!!!!"
+        }
+      ]
+    },
+    {
+      "title": "Post 3",
+      "image": "http://www.rejinasgossipfix.com/wp-content/uploads/2018/06/mountain_silverback_gorillas.jpg",
+      "img_alt": "Silverback",
+      "comments": [
+        {
+          "id": "34567",
+          "user": "kong_nyc5",
+          "comment": "Absolute Beast!!"
+        },
+        {
+          "id": "34568",
+          "user": "skull_island678",
+          "comment": "The real king of the jungle!"
+        }
+      ]
     }
   ]
 }
